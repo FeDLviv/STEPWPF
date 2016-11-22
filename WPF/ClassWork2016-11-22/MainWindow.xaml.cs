@@ -23,5 +23,17 @@ namespace WPF
         {
             InitializeComponent();
         }
+
+        private void buttonOK_Click(object sender, RoutedEventArgs e)
+        {
+            if (string.IsNullOrWhiteSpace(textUser.Text))
+            {
+                MessageBox.Show("Please enter name!");
+            }
+            else
+            {
+                MessageBox.Show("Hello " + textUser.Text);
+            }
+        }
     }
 }
