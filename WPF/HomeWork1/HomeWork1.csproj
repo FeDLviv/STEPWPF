@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{4EF8F051-3C53-4556-BE80-E282443A6F01}</ProjectGuid>
+    <ProjectGuid>{8901DF42-E973-44EB-9074-28D00602755F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Classwork2016_11_23</RootNamespace>
-    <AssemblyName>Classwork2016-11-23</AssemblyName>
+    <RootNamespace>HomeWork1</RootNamespace>
+    <AssemblyName>HomeWork1</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
