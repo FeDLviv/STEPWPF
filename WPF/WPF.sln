@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassWork2016-11-22", "ClassWork2016-11-22\ClassWork2016-11-22.csproj", "{B4460831-94FD-4BB3-BD39-33AA9A2F8E4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classwork2016-11-23", "Classwork2016-11-23\Classwork2016-11-23.csproj", "{4EF8F051-3C53-4556-BE80-E282443A6F01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,13 @@ Global
 		{B4460831-94FD-4BB3-BD39-33AA9A2F8E4B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B4460831-94FD-4BB3-BD39-33AA9A2F8E4B}.Release|x86.ActiveCfg = Release|Any CPU
 		{B4460831-94FD-4BB3-BD39-33AA9A2F8E4B}.Release|x86.Build.0 = Release|Any CPU
+		{4EF8F051-3C53-4556-BE80-E282443A6F01}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{4EF8F051-3C53-4556-BE80-E282443A6F01}.Debug|x86.ActiveCfg = Debug|x86
+		{4EF8F051-3C53-4556-BE80-E282443A6F01}.Debug|x86.Build.0 = Debug|x86
+		{4EF8F051-3C53-4556-BE80-E282443A6F01}.Release|Any CPU.ActiveCfg = Release|x86
+		{4EF8F051-3C53-4556-BE80-E282443A6F01}.Release|Any CPU.Build.0 = Release|x86
+		{4EF8F051-3C53-4556-BE80-E282443A6F01}.Release|x86.ActiveCfg = Release|x86
+		{4EF8F051-3C53-4556-BE80-E282443A6F01}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
